@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/github/downloads/greatcvs/greatcvs/total?color=blue&label=下载)](https://github.com/greatcvs)
 [![Releases](https://img.shields.io/github/v/release/greatcvs/greatcvs?color=green&label=发行版)](https://github.com/greatcvs)
 
-[![访问量](https://profile-counter.glitch.me/greatcvs/greatcvs/count.svg)](https://github.com/greatcvs)
+[![访问量](https://profile-counter.glitch.me/greatcvs/count.svg)](https://github.com/greatcvs)
 
 
 #### 介绍
